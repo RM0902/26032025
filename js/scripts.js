@@ -23,7 +23,7 @@ if(canvas_cuatro.getContext){
 
     console.log("si la soporta");
 
-    var ctx_4 = canvas_cuatro.getContext("2d")
+    var ctx_4 = canvas_cuatro.getContext("2d");
 
     ctx_4.beginPath();
     ctx_4.moveTo(5,5);
